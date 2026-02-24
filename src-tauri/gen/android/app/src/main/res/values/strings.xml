@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">camera-tauri</string>
+    <string name="main_activity_title">camera-tauri</string>
+</resources>
